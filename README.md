@@ -1,16 +1,19 @@
-## Hi there 👋
+# WELCOME TO THE CASINO 🎰  
 
-<!--
-**TheDeGen/TheDeGen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
 
-Here are some ideas to get you started:
+I’m a professional degen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full-time at the intersection of bad decisions and worse code.
+I specialise in:
+	•	Providing liquidity to rugs
+	•	Farming negative APY with size
+	•	Debugging Python using only print("wtf")
+
+⸻
+
+## 📈 Current Positions
+	•	Long on copium
+	•	Short on sleep
+	•	100% exposure to unrealised losses
+	•	Staking my reputation for single-digit yields
